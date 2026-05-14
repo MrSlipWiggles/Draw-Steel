@@ -43,7 +43,7 @@ const RAW_RUNTIME_STATE =
     ]],\
     ["turbo", [\
       ["npm:1.13.4", {\
-        "packageLocation": "../AppData/Local/Yarn/Berry/cache/turbo-npm-1.13.4-42f8fd1fc0-10c0.zip/node_modules/turbo/",\
+        "packageLocation": "../../.yarn/berry/cache/turbo-npm-1.13.4-42f8fd1fc0-10c0.zip/node_modules/turbo/",\
         "packageDependencies": [\
           ["turbo", "npm:1.13.4"],\
           ["turbo-darwin-64", "npm:1.13.4"],\

@@ -5,7 +5,7 @@ Encounter builder for the TTRPG Draw Steel.
 ## Development Environment Setup
 
 ### Prerequisites Installed
-- **Node.js** v20 LTS
+- **Node.js** v24.15.0 LTS
 - **Yarn** v4 (via Corepack)
 - **Docker Desktop** with WSL 2 backend
 - **WSL 2** with Ubuntu distribution
